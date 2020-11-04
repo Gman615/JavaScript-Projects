@@ -1,7 +1,7 @@
 # JavaScript-Projects
 
-Here are some small JavaScript projects from my lessons with the Tech Academy. The most important one in this list is the Pizza Project.
+Here are some small JavaScript projects from my lessons with the Tech Academy. The most important one in this list is the Calculator.
 
-Pizza Project
+Calculator
 
-This website has a full menu with clickable items that add to a list and reflect an accurate price. The items are displayed at the bottom of the screen as selected when a pizza is ordered.
+This website has a full calculator with clickable values and creatable functions using operators.
